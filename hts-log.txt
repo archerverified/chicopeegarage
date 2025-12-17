@@ -1,0 +1,311 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 17 Dec 2025 21:48:59 at https://speedygarageservices.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2t%Pns2u1k%s%uN0%I0p7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://speedygarageservices.com/ -O1 "C:\Users\OxGh0\OneDrive\Desktop\Chicopee Garage Door" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:49:00	Warning: 	Note: due to https://speedygarageservices.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+21:50:03	Warning: 	Moved Permanently for code.tidio.co/robots.txt
+21:50:03	Warning: 	File has moved from code.tidio.co/robots.txt to https://code.tidio.co:443/robots.txt
+21:50:03	Warning: 	Moved Permanently for code.tidio.co/
+21:50:03	Warning: 	File has moved from code.tidio.co/ to https://code.tidio.co:443/
+21:51:42	Warning: 	Warning: store text/html without scan: C:/Users/OxGh0/OneDrive/Desktop/Chicopee Garage Door/gmpg.org/xfn/.html
+21:51:42	Warning: 	Warning: store text/html without scan: C:/Users/OxGh0/OneDrive/Desktop/Chicopee Garage Door/gmpg.org/xfn/intro.html
+21:51:42	Warning: 	Warning: store text/html without scan: C:/Users/OxGh0/OneDrive/Desktop/Chicopee Garage Door/gmpg.org/xfn/faq.html
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=907
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=907 to https://speedygarageservices.com/about-us/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=32
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=32 to https://speedygarageservices.com/broken-spring-repair/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=298
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=298 to https://speedygarageservices.com/openers-repair-installation/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=307
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=307 to https://speedygarageservices.com/door-off-track/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=337
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=337 to https://speedygarageservices.com/broken-cable-repair/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=348
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=348 to https://speedygarageservices.com/new-door-installation/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=362
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=362 to https://speedygarageservices.com/door-maintenance/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=423
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=423 to https://speedygarageservices.com/remote-repair-installation/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=378
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=378 to https://speedygarageservices.com/garage-door-roller-repair/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=710
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=710 to https://speedygarageservices.com/belchertown-ma/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=758
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=758 to https://speedygarageservices.com/longmeadow-ma/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=775
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=775 to https://speedygarageservices.com/springfield-ma/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=785
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=785 to https://speedygarageservices.com/chicopee-ma/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=791
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=791 to https://speedygarageservices.com/agawam-ma/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=800
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=800 to https://speedygarageservices.com/southwick-ma/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1162
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=1162 to https://speedygarageservices.com/easthampton-ma/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=805
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=805 to https://speedygarageservices.com/enfield-ct/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=811
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=811 to https://speedygarageservices.com/suffield-ct/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=816
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=816 to https://speedygarageservices.com/somers-ct/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=823
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=823 to https://speedygarageservices.com/simsbury-ct/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=829
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=829 to https://speedygarageservices.com/east-windsor-ct/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=837
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=837 to https://speedygarageservices.com/bloomfield-ct/
+21:51:42	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=930
+21:51:42	Warning: 	File has moved from https://speedygarageservices.com/?p=930 to https://speedygarageservices.com/residential/
+21:51:45	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=940
+21:51:45	Warning: 	File has moved from https://speedygarageservices.com/?p=940 to https://speedygarageservices.com/commercial/
+21:51:45	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1226
+21:51:45	Warning: 	File has moved from https://speedygarageservices.com/?p=1226 to https://speedygarageservices.com/east-longmeadow-ma/
+21:51:45	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1244
+21:51:45	Warning: 	File has moved from https://speedygarageservices.com/?p=1244 to https://speedygarageservices.com/west-springfield-ma/
+21:51:45	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1250
+21:51:45	Warning: 	File has moved from https://speedygarageservices.com/?p=1250 to https://speedygarageservices.com/hampden-ma/
+21:51:45	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1259
+21:51:45	Warning: 	File has moved from https://speedygarageservices.com/?p=1259 to https://speedygarageservices.com/feeding-hills-ma/
+21:51:45	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1266
+21:51:45	Warning: 	File has moved from https://speedygarageservices.com/?p=1266 to https://speedygarageservices.com/westfield-ma/
+21:51:45	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1272
+21:51:45	Warning: 	File has moved from https://speedygarageservices.com/?p=1272 to https://speedygarageservices.com/south-hadley-ma/
+21:51:45	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1285
+21:51:45	Warning: 	File has moved from https://speedygarageservices.com/?p=1285 to https://speedygarageservices.com/northampton-ma/
+21:51:45	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1291
+21:51:45	Warning: 	File has moved from https://speedygarageservices.com/?p=1291 to https://speedygarageservices.com/hatfield-ma/
+21:51:45	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1299
+21:51:45	Warning: 	File has moved from https://speedygarageservices.com/?p=1299 to https://speedygarageservices.com/deerfield-ma/
+21:51:45	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1306
+21:51:45	Warning: 	File has moved from https://speedygarageservices.com/?p=1306 to https://speedygarageservices.com/granby-ct/
+21:51:45	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=972
+21:51:45	Warning: 	File has moved from https://speedygarageservices.com/?p=972 to https://speedygarageservices.com/repairs/
+21:51:59	Warning: 	HTML file (598905 bytes) retransferred due to lack of cache: https://speedygarageservices.com/wp-json/
+21:52:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/9
+21:52:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/xmlrpc.php?rsd
+21:56:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fabout-us%2F
+21:56:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fabout-us%2F&format=xml
+21:56:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/907
+21:56:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fbroken-spring-repair%2F
+21:56:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/32
+21:56:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fbroken-spring-repair%2F&format=xml
+21:56:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fopeners-repair-installation%2F
+21:56:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fopeners-repair-installation%2F&format=xml
+21:56:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/298
+21:56:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fdoor-off-track%2F
+21:56:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fdoor-off-track%2F&format=xml
+21:56:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/307
+21:57:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fbroken-cable-repair%2F
+21:57:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/337
+21:57:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fbroken-cable-repair%2F&format=xml
+21:57:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fnew-door-installation%2F
+21:57:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fnew-door-installation%2F&format=xml
+21:57:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/348
+21:57:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fdoor-maintenance%2F
+21:57:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fdoor-maintenance%2F&format=xml
+21:57:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/362
+21:57:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fremote-repair-installation%2F
+21:57:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fremote-repair-installation%2F&format=xml
+21:57:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/423
+21:57:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fgarage-door-roller-repair%2F
+21:57:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fgarage-door-roller-repair%2F&format=xml
+21:57:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/378
+21:57:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fbelchertown-ma%2F
+21:57:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fbelchertown-ma%2F&format=xml
+21:57:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/710
+21:57:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Flongmeadow-ma%2F
+21:57:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Flongmeadow-ma%2F&format=xml
+21:57:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/758
+21:57:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fspringfield-ma%2F
+21:57:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fspringfield-ma%2F&format=xml
+21:57:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/775
+21:57:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fchicopee-ma%2F
+21:57:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fchicopee-ma%2F&format=xml
+21:57:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/785
+21:57:59	Warning: 	Moved Permanently for code.tidio.co/robots.txt
+21:57:59	Warning: 	File has moved from code.tidio.co/robots.txt to https://code.tidio.co:443/robots.txt
+21:58:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/791
+21:58:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fagawam-ma%2F
+21:58:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fagawam-ma%2F&format=xml
+21:58:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/800
+21:58:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fsouthwick-ma%2F
+21:58:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fsouthwick-ma%2F&format=xml
+21:58:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Feasthampton-ma%2F
+21:58:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/1162
+21:58:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Feasthampton-ma%2F&format=xml
+21:58:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fenfield-ct%2F
+21:58:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/805
+21:58:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fenfield-ct%2F&format=xml
+21:58:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fsuffield-ct%2F
+21:58:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fsuffield-ct%2F&format=xml
+21:58:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/811
+21:58:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/816
+21:58:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fsomers-ct%2F
+21:58:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fsomers-ct%2F&format=xml
+21:58:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/823
+21:58:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fsimsbury-ct%2F
+21:58:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fsimsbury-ct%2F&format=xml
+21:58:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Feast-windsor-ct%2F
+21:58:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/829
+21:58:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Feast-windsor-ct%2F&format=xml
+21:58:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fbloomfield-ct%2F
+21:58:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fbloomfield-ct%2F&format=xml
+21:58:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/837
+21:58:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fresidential%2F
+21:58:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fresidential%2F&format=xml
+21:58:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/930
+21:59:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fcommercial%2F
+21:59:08	Warning: 	HTML file (234390 bytes) retransferred due to lack of cache: https://speedygarageservices.com/about-us/
+21:59:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/940
+21:59:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fcommercial%2F&format=xml
+21:59:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Feast-longmeadow-ma%2F
+21:59:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/1226
+21:59:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Feast-longmeadow-ma%2F&format=xml
+21:59:23	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/sfbdysn97c8iuasdqk7arvefcsnjx6ev.js (from https://speedygarageservices.com/)
+21:59:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/1244
+21:59:27	Warning: 	Warning: store text/css without scan: C:/Users/OxGh0/OneDrive/Desktop/Chicopee Garage Door/gmpg.org/xfn/default.css
+21:59:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fwest-springfield-ma%2F
+21:59:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fwest-springfield-ma%2F&format=xml
+21:59:29	Warning: 	HTML file (783 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=907
+21:59:31	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=907
+21:59:31	Warning: 	File has moved from https://speedygarageservices.com/?p=907 to https://speedygarageservices.com/about-us/
+21:59:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/1250
+21:59:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fhampden-ma%2F
+21:59:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fhampden-ma%2F&format=xml
+21:59:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Ffeeding-hills-ma%2F
+21:59:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/1259
+21:59:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Ffeeding-hills-ma%2F&format=xml
+21:59:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fwestfield-ma%2F
+21:59:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fwestfield-ma%2F&format=xml
+21:59:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/1266
+21:59:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fsouth-hadley-ma%2F&format=xml
+21:59:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fsouth-hadley-ma%2F
+21:59:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/1272
+21:59:46	Warning: 	HTML file (805 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=32
+21:59:47	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=32
+21:59:47	Warning: 	File has moved from https://speedygarageservices.com/?p=32 to https://speedygarageservices.com/broken-spring-repair/
+21:59:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/1285
+21:59:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fnorthampton-ma%2F
+21:59:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fnorthampton-ma%2F&format=xml
+21:59:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fhatfield-ma%2F
+21:59:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/1291
+21:59:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fdeerfield-ma%2F
+21:59:58	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=298
+21:59:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fhatfield-ma%2F&format=xml
+22:00:00	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=298
+22:00:00	Warning: 	File has moved from https://speedygarageservices.com/?p=298 to https://speedygarageservices.com/openers-repair-installation/
+22:00:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/1299
+22:00:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fdeerfield-ma%2F&format=xml
+22:00:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fgranby-ct%2F
+22:00:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Fgranby-ct%2F&format=xml
+22:00:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/1306
+22:00:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Frepairs%2F
+22:00:08	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=307
+22:00:10	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=307
+22:00:10	Warning: 	File has moved from https://speedygarageservices.com/?p=307 to https://speedygarageservices.com/door-off-track/
+22:00:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/wp/v2/pages/972
+22:00:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://speedygarageservices.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspeedygarageservices.com%2Frepairs%2F&format=xml
+22:00:19	Warning: 	HTML file (805 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=337
+22:00:20	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=337
+22:00:20	Warning: 	File has moved from https://speedygarageservices.com/?p=337 to https://speedygarageservices.com/broken-cable-repair/
+22:00:37	Warning: 	HTML file (809 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=348
+22:00:38	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=348
+22:00:38	Warning: 	File has moved from https://speedygarageservices.com/?p=348 to https://speedygarageservices.com/new-door-installation/
+22:00:45	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=362
+22:00:45	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=362
+22:00:45	Warning: 	File has moved from https://speedygarageservices.com/?p=362 to https://speedygarageservices.com/door-maintenance/
+22:01:07	Warning: 	HTML file (819 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=423
+22:01:08	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=423
+22:01:08	Warning: 	File has moved from https://speedygarageservices.com/?p=423 to https://speedygarageservices.com/remote-repair-installation/
+22:01:33	Warning: 	HTML file (817 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=378
+22:01:35	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=378
+22:01:35	Warning: 	File has moved from https://speedygarageservices.com/?p=378 to https://speedygarageservices.com/garage-door-roller-repair/
+22:01:49	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=710
+22:01:50	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=710
+22:01:50	Warning: 	File has moved from https://speedygarageservices.com/?p=710 to https://speedygarageservices.com/belchertown-ma/
+22:02:03	Warning: 	HTML file (793 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=758
+22:02:05	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=758
+22:02:05	Warning: 	File has moved from https://speedygarageservices.com/?p=758 to https://speedygarageservices.com/longmeadow-ma/
+22:02:14	Error: 	"Not Found" (404) at link https://speedygarageservices.com/wp-content/uploads/2024/02/father-sons-logo.png (from https://speedygarageservices.com/longmeadow-ma/)
+22:02:19	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=775
+22:02:20	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=775
+22:02:20	Warning: 	File has moved from https://speedygarageservices.com/?p=775 to https://speedygarageservices.com/springfield-ma/
+22:02:30	Warning: 	HTML file (789 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=785
+22:02:31	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=785
+22:02:31	Warning: 	File has moved from https://speedygarageservices.com/?p=785 to https://speedygarageservices.com/chicopee-ma/
+22:02:40	Warning: 	HTML file (785 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=791
+22:02:41	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=791
+22:02:41	Warning: 	File has moved from https://speedygarageservices.com/?p=791 to https://speedygarageservices.com/agawam-ma/
+22:02:51	Warning: 	HTML file (791 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=800
+22:02:52	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=800
+22:02:52	Warning: 	File has moved from https://speedygarageservices.com/?p=800 to https://speedygarageservices.com/southwick-ma/
+22:02:59	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=1162
+22:03:00	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1162
+22:03:00	Warning: 	File has moved from https://speedygarageservices.com/?p=1162 to https://speedygarageservices.com/easthampton-ma/
+22:03:09	Warning: 	HTML file (787 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=805
+22:03:11	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=805
+22:03:11	Warning: 	File has moved from https://speedygarageservices.com/?p=805 to https://speedygarageservices.com/enfield-ct/
+22:03:20	Warning: 	HTML file (789 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=811
+22:03:21	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=811
+22:03:21	Warning: 	File has moved from https://speedygarageservices.com/?p=811 to https://speedygarageservices.com/suffield-ct/
+22:03:31	Warning: 	HTML file (785 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=816
+22:03:32	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=816
+22:03:32	Warning: 	File has moved from https://speedygarageservices.com/?p=816 to https://speedygarageservices.com/somers-ct/
+22:03:38	Warning: 	HTML file (789 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=823
+22:03:40	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=823
+22:03:40	Warning: 	File has moved from https://speedygarageservices.com/?p=823 to https://speedygarageservices.com/simsbury-ct/
+22:03:50	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=829
+22:03:52	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=829
+22:03:52	Warning: 	File has moved from https://speedygarageservices.com/?p=829 to https://speedygarageservices.com/east-windsor-ct/
+22:03:59	Warning: 	HTML file (793 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=837
+22:04:01	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=837
+22:04:01	Warning: 	File has moved from https://speedygarageservices.com/?p=837 to https://speedygarageservices.com/bloomfield-ct/
+22:04:10	Warning: 	HTML file (789 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=930
+22:04:12	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=930
+22:04:12	Warning: 	File has moved from https://speedygarageservices.com/?p=930 to https://speedygarageservices.com/residential/
+22:04:14	Warning: 	HTML file (231891 bytes) retransferred due to lack of cache: https://speedygarageservices.com/repairs/
+22:04:32	Warning: 	HTML file (787 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=940
+22:04:34	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=940
+22:04:34	Warning: 	File has moved from https://speedygarageservices.com/?p=940 to https://speedygarageservices.com/commercial/
+22:04:45	Warning: 	HTML file (805 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=1226
+22:04:47	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1226
+22:04:47	Warning: 	File has moved from https://speedygarageservices.com/?p=1226 to https://speedygarageservices.com/east-longmeadow-ma/
+22:04:47	Warning: 	HTML file (807 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=1244
+22:04:47	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1244
+22:04:47	Warning: 	File has moved from https://speedygarageservices.com/?p=1244 to https://speedygarageservices.com/west-springfield-ma/
+22:04:48	Warning: 	HTML file (789 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=1250
+22:04:48	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1250
+22:04:48	Warning: 	File has moved from https://speedygarageservices.com/?p=1250 to https://speedygarageservices.com/hampden-ma/
+22:04:48	Warning: 	HTML file (801 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=1259
+22:04:49	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1259
+22:04:49	Warning: 	File has moved from https://speedygarageservices.com/?p=1259 to https://speedygarageservices.com/feeding-hills-ma/
+22:04:49	Warning: 	HTML file (793 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=1266
+22:04:50	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1266
+22:04:50	Warning: 	File has moved from https://speedygarageservices.com/?p=1266 to https://speedygarageservices.com/westfield-ma/
+22:04:50	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=1272
+22:04:51	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1272
+22:04:51	Warning: 	File has moved from https://speedygarageservices.com/?p=1272 to https://speedygarageservices.com/south-hadley-ma/
+22:04:51	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=1285
+22:04:52	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1285
+22:04:52	Warning: 	File has moved from https://speedygarageservices.com/?p=1285 to https://speedygarageservices.com/northampton-ma/
+22:04:52	Warning: 	HTML file (791 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=1291
+22:04:53	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1291
+22:04:53	Warning: 	File has moved from https://speedygarageservices.com/?p=1291 to https://speedygarageservices.com/hatfield-ma/
+22:04:53	Warning: 	HTML file (793 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=1299
+22:04:55	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1299
+22:04:55	Warning: 	File has moved from https://speedygarageservices.com/?p=1299 to https://speedygarageservices.com/deerfield-ma/
+22:04:55	Warning: 	HTML file (787 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=1306
+22:04:56	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=1306
+22:04:56	Warning: 	File has moved from https://speedygarageservices.com/?p=1306 to https://speedygarageservices.com/granby-ct/
+22:04:56	Warning: 	HTML file (781 bytes) retransferred due to lack of cache: https://speedygarageservices.com/?p=972
+22:04:57	Warning: 	Moved Permanently for https://speedygarageservices.com/?p=972
+22:04:57	Warning: 	File has moved from https://speedygarageservices.com/?p=972 to https://speedygarageservices.com/repairs/
+22:04:58	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/sfbdysn97c8iuasdqk7arvefcsnjx6ev.js (from https://speedygarageservices.com/)
+22:04:59	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://code.tidio.co:443/sfbdysn97c8iuasdqk7arvefcsnjx6ev.js (from https://speedygarageservices.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 0 seconds : 535 links scanned, 603 files written (35038334 bytes overall) [87578170 bytes received at 91227 bytes/sec], 2.9 requests per connection
+(2 errors, 298 warnings, 0 messages)
